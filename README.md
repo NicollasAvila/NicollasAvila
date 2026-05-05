@@ -8,6 +8,13 @@ Software Engineering student and AI/Cybersecurity Researcher based in Rio de Jan
 - **🤝 Looking for help with:** Advanced LLM-as-a-Judge pipelines and refining automated auditing systems against digital threats.
 - **🌱 Currently learning:** Deepening my knowledge in Docker, Ubuntu Server for home-hosted environments, and advanced Python architectures.
 
+### 🔬 Academic Research & Publications
+As a researcher, I actively publish articles bridging software engineering, embedded systems, and the societal impact of technology:
+- 📄 [ANÁLISE COMPARATIVA DE TECNOLOGIAS EMBARCADAS NO UNIVERSO DE CYBERPUNK 2077 E SUAS IMPLICAÇÕES NO MUNDO REAL](https://doi.org/10.5281/zenodo.18409239)
+- 📄 [Tecnologia assistiva: bengala eletrônica microcontrolada para navegação de deficientes visuais](https://doi.org/10.54033/cadpedv21n10-029)
+- 📄 [Explorando a robótica mecânica como ferramenta educacional: o papel no desenvolvimento de competências para o ensino superior](https://doi.org/10.54033/cadpedv21n9-294)
+- 📄 [Microsoft Access: everything you need to know to manage your database effectively](https://doi.org/10.33448/rsd-v12i5.41324)
+
 ### 📚 Beyond the Code
 - **💬 Ask me about:** Software Engineering, PC building and hardware optimization, setting up a home server with a Xeon processor, or how the "Mind" attribute efficiently scales Focus Points (PF/mana) in Elden Ring!
 - **⚡ Fun fact:** When I'm not coding or doing academic research, I'm usually playing the keyboard, hitting the gym, or doing some hands-on maintenance on my motorcycle.
@@ -32,4 +39,5 @@ Software Engineering student and AI/Cybersecurity Researcher based in Rio de Jan
 
 ### 📩 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicollas-ávila)
+[![Lattes](https://img.shields.io/badge/Currículo_Lattes-005A9C?style=for-the-badge&logo=sitepoint&logoColor=white)](https://lattes.cnpq.br/9736243285136939)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicollasaguiaravila@gmail.com)
